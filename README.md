@@ -25,4 +25,4 @@ public class AboutMe {
 ## 🤝 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riwall@wsc.edu)
 ---
-⭐️ From [YourUsername](https://github.com/RivJams)
+⭐️ From [RivJams](https://github.com/RivJams)
