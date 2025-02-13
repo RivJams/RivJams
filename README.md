@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm River Wallerstedt
 
-<!--
-**RivJams/RivJams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏫 Computer Science student at Wayne State College
+- 📚 Expected graduation: 2028
+- 💻 Currently learning Java and C++
+- 🌱 Excited to explore software development
 
-Here are some ideas to get you started:
+## 🛠️ Programming Languages
+```cpp
+public class AboutMe {
+    String[] skills = {"Java", "C++"};
+    String currentlyLearning = "Object Oriented Programming";
+    String interests = "Software Development";
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Learning Goals
+- Master Object-Oriented Programming concepts
+- Build a solid foundation in Data Structures
+- Learn version control with Git
+
+## 📚 Courses
+- Programming Fundamentals I & II
+## 🤝 Let's Connect!
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riwall@wsc.edu)
+---
+⭐️ From [YourUsername](https://github.com/RivJams)
