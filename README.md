@@ -4,7 +4,7 @@
 - 🏫 Computer Science student at Wayne State College
 - 📚 Expected graduation: 2028
 - 💻 Currently learning Java and C++
-- 🌱 Excited to explore software development
+- 🌱 Excited to explore software development and the technology field
 
 ## 🛠️ Programming Languages
 ```cpp
